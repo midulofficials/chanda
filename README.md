@@ -3,7 +3,7 @@
 
 -- Code Collection, i don't know who created this script,i just upload this script in my id
 
-clone by "https://deshneta10percent.vercel.app/"
+clone by "https://chanda-nine.vercel.app/"
 
 -this is the fun project, enjoy
 
