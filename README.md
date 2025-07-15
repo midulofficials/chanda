@@ -1,9 +1,9 @@
-# Deshneta-Chada-Calculation-Deshneta-10-Percent-
+# Desh-netar-Chada-Calculation-Deshneta-10-Percent-
 দেশনেতার চাঁদা ক্যালকুলেটর, deshneta, deshneta10percent, deshneta chada calculation
 
 -- Code Collection, i don't know who created this script,i just upload this script in my id
 
-clone by "https://chanda-nine.vercel.app/"
+clone by "https://deshnetarchanda.vercel.app/"
 
 -this is the fun project, enjoy
 
